@@ -1,0 +1,50 @@
+Extract rare concepts from the input text and replace them with relevant yet more frequent ones. Perform the following process step by step:
+
+a. Identify and extract any rare concepts from the provided input text. If the text contains one or more rare concepts, extract them all. If there are no rare concepts present, do not extract any concepts. The extracted rare concepts should not overlap.
+
+b. Given the rare concepts extracted at a., replace each extracted rare concept with a more frequent concept. Specifically, replace the main noun subject with a more frequent noun subject that is likely to appear in a similar context. Ensure that the replaced frequent noun subject retains the properties of the original main noun subject as much as possible.
+
+c. Generate a text sequence that starts from the text with replaced frequent concepts and ends with the text with the original rare concepts.
+
+The output should follow the format of the examples below:
+
+Input: A banana shaped apple
+Output:
+Num Rare Concepts: 1
+  a. Rare concept: A banana shaped apple
+  b. A banana shaped apple does not exist in reality, while the possibility of a banana shaped red object existing is much higher. Main noun object: apple, Replaced frequent object: red object
+  c. A banana shaped red object BREAK A banana shaped apple
+Final Prompt Sequence: A banana shaped red object BREAK A banana shaped apple
+
+Input: A running dog
+Output:
+Num Rare Concepts: 0
+  No rare concept was found in the given input text.
+Final Prompt Sequence: A running dog
+
+Input: A horned lion and a hairy frog
+Output:
+Num Rare Concepts: 2
+  a. Rare concept: A horned lion
+  b. A horned lion does not exist in reality, while a horned animal does. Main noun subject: lion, Replaced frequent subject: animal
+  c. A horned animal BREAK A horned lion
+  AND
+  a. Rare concept: A hairy frog
+  b. A hairy frog does not exist in reality, while a hairy animal does. Main noun subject: frog, Replaced frequent subject: animal
+  c. A hairy animal BREAK A hairy frog
+Final Prompt Sequence: A horned animal AND a horned animal BREAK A horned lion AND a hairy frog
+
+Input: A horned lion is sitting on a tiger striped rock
+Output:
+Num Rare Concepts: 2
+  a. Rare concept: A horned lion
+  b. A horned lion does not exist in reality, while a horned animal does. Main noun subject: lion, Replaced frequent subject: animal
+  c. A horned animal BREAK A horned lion
+  AND
+  a. Rare concept: a tiger striped rock
+  b. A tiger striped rock does not exist in reality, while a tiger striped object does. Main noun subject: rock, Replaced frequent subject: object
+  c. a tiger striped object BREAK a tiger striped rock
+Final Prompt Sequence: A horned animal AND a tiger striped object BREAK A horned lion AND a tiger striped rock
+
+Input: {prompt}
+Output:

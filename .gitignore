@@ -1,0 +1,22 @@
+# Claude Code / OMC
+.omc/
+CLAUDE.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Output (generated images, eval results)
+output/
+
+# PDF
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

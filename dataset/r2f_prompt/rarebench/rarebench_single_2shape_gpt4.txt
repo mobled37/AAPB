@@ -1,0 +1,401 @@
+{
+    "A banana shaped pumpkin": {
+        "visual_detail_level": "1",
+        "r2f_prompt": [
+            [
+                "A banana shaped orange object",
+                "A banana shaped pumpkin"
+            ]
+        ],
+        "main_noun_subject": "pumpkin"
+    },
+    "A banana shaped watermelon": {
+        "visual_detail_level": "1",
+        "r2f_prompt": [
+            [
+                "A banana shaped green object",
+                "A banana shaped watermelon"
+            ]
+        ],
+        "main_noun_subject": "watermelon"
+    },
+    "A banana shaped car": {
+        "visual_detail_level": "1",
+        "r2f_prompt": [
+            [
+                "A banana shaped object",
+                "A banana shaped car"
+            ]
+        ],
+        "main_noun_subject": "car"
+    },
+    "A banana shaped bottle": {
+        "visual_detail_level": "1",
+        "r2f_prompt": [
+            [
+                "A banana shaped object",
+                "A banana shaped bottle"
+            ]
+        ],
+        "main_noun_subject": "bottle"
+    },
+    "A star shaped cheese cake": {
+        "visual_detail_level": "3",
+        "r2f_prompt": [
+            [
+                "A star shaped food item",
+                "A star shaped cheese cake"
+            ]
+        ],
+        "main_noun_subject": "cheese cake"
+    },
+    "A star shaped drum": {
+        "visual_detail_level": "1",
+        "r2f_prompt": [
+            [
+                "A star shaped object",
+                "A star shaped drum"
+            ]
+        ],
+        "main_noun_subject": "drum"
+    },
+    "A star shaped tennis ball": {
+        "visual_detail_level": "3",
+        "r2f_prompt": [
+            [
+                "A star shaped object",
+                "A star shaped tennis ball"
+            ]
+        ],
+        "main_noun_subject": "tennis ball"
+    },
+    "A star shaped bed": {
+        "visual_detail_level": "3",
+        "r2f_prompt": [
+            [
+                "A star shaped object",
+                "A star shaped bed"
+            ]
+        ],
+        "main_noun_subject": "bed"
+    },
+    "An ax shaped guitar": {
+        "visual_detail_level": "4",
+        "r2f_prompt": [
+            [
+                "An ax shaped object",
+                "An ax shaped guitar"
+            ]
+        ],
+        "main_noun_subject": "guitar"
+    },
+    "An ax shaped violin": {
+        "visual_detail_level": "3",
+        "r2f_prompt": [
+            [
+                "An ax shaped wooden object",
+                "An ax shaped violin"
+            ]
+        ],
+        "main_noun_subject": "violin"
+    },
+    "An ax shaped cloud": {
+        "visual_detail_level": "2",
+        "r2f_prompt": [
+            [
+                "An ax shaped white object",
+                "An ax shaped cloud"
+            ]
+        ],
+        "main_noun_subject": "cloud"
+    },
+    "An ax shaped chocolate": {
+        "visual_detail_level": "3",
+        "r2f_prompt": [
+            [
+                "An ax shaped dark object",
+                "An ax shaped chocolate"
+            ]
+        ],
+        "main_noun_subject": "chocolate"
+    },
+    "A butterfly shaped airplane": {
+        "visual_detail_level": "3",
+        "r2f_prompt": [
+            [
+                "A butterfly shaped flying vehicle",
+                "A butterfly shaped airplane"
+            ]
+        ],
+        "main_noun_subject": "airplane"
+    },
+    "A butterfly shaped bowl": {
+        "visual_detail_level": "4",
+        "r2f_prompt": [
+            [
+                "A butterfly shaped container",
+                "A butterfly shaped bowl"
+            ]
+        ],
+        "main_noun_subject": "bowl"
+    },
+    "A butterfly shaped dish": {
+        "visual_detail_level": "3",
+        "r2f_prompt": [
+            [
+                "A butterfly shaped container",
+                "A butterfly shaped dish"
+            ]
+        ],
+        "main_noun_subject": "dish"
+    },
+    "A butterfly shaped spaceship": {
+        "visual_detail_level": "2",
+        "r2f_prompt": [
+            [
+                "A butterfly shaped vehicle",
+                "A butterfly shaped spaceship"
+            ]
+        ],
+        "main_noun_subject": "spaceship"
+    },
+    "An oval shaped table": {
+        "visual_detail_level": "1",
+        "r2f_prompt": [
+            [
+                "An oval shaped table"
+            ]
+        ],
+        "main_noun_subject": "table"
+    },
+    "An oval shaped labtop": {
+        "visual_detail_level": "3",
+        "r2f_prompt": [
+            [
+                "An oval shaped tech object",
+                "An oval shaped laptop"
+            ]
+        ],
+        "main_noun_subject": "labtop"
+    },
+    "An oval shaped building": {
+        "visual_detail_level": "4",
+        "r2f_prompt": [
+            [
+                "An oval shaped structure",
+                "An oval shaped building"
+            ]
+        ],
+        "main_noun_subject": "building"
+    },
+    "An oval shaped soccer ball": {
+        "visual_detail_level": "2",
+        "r2f_prompt": [
+            [
+                "An oval-shaped object",
+                "An oval shaped soccer ball"
+            ]
+        ],
+        "main_noun_subject": "soccer ball"
+    },
+    "A donut shaped watermelon": {
+        "visual_detail_level": "1",
+        "r2f_prompt": [
+            [
+                "A donut shaped green object",
+                "A donut shaped watermelon"
+            ]
+        ],
+        "main_noun_subject": "watermelon"
+    },
+    "A donut shaped basket ball": {
+        "visual_detail_level": "1",
+        "r2f_prompt": [
+            [
+                "A donut shaped round object",
+                "A donut shaped basketball"
+            ]
+        ],
+        "main_noun_subject": "basket ball"
+    },
+    "A donut shaped train": {
+        "visual_detail_level": "3",
+        "r2f_prompt": [
+            [
+                "A donut shaped vehicle",
+                "A donut shaped train"
+            ]
+        ],
+        "main_noun_subject": "train"
+    },
+    "A donut shaped earth": {
+        "visual_detail_level": "1",
+        "r2f_prompt": [
+            [
+                "A donut shaped blue object",
+                "A donut shaped earth"
+            ]
+        ],
+        "main_noun_subject": "earth"
+    },
+    "A hand shaped baguette": {
+        "visual_detail_level": "4",
+        "r2f_prompt": [
+            [
+                "A hand shaped bread",
+                "A hand shaped baguette"
+            ]
+        ],
+        "main_noun_subject": "baguette"
+    },
+    "A hand shaped steak": {
+        "visual_detail_level": "3",
+        "r2f_prompt": [
+            [
+                "A hand shaped food item",
+                "A hand shaped steak"
+            ]
+        ],
+        "main_noun_subject": "steak"
+    },
+    "A hand shaped book": {
+        "visual_detail_level": "4",
+        "r2f_prompt": [
+            [
+                "A hand shaped object",
+                "A hand shaped book"
+            ]
+        ],
+        "main_noun_subject": "book"
+    },
+    "A hand shaped pillow": {
+        "visual_detail_level": "4",
+        "r2f_prompt": [
+            [
+                "A hand shaped fabric object",
+                "A hand shaped pillow"
+            ]
+        ],
+        "main_noun_subject": "pillow"
+    },
+    "A gear shaped donut": {
+        "visual_detail_level": "3",
+        "r2f_prompt": [
+            [
+                "A gear shaped bread",
+                "A gear shaped donut"
+            ]
+        ],
+        "main_noun_subject": "donut"
+    },
+    "A gear shaped spoon": {
+        "visual_detail_level": "3",
+        "r2f_prompt": [
+            [
+                "A gear shaped metal object",
+                "A gear shaped spoon"
+            ]
+        ],
+        "main_noun_subject": "spoon"
+    },
+    "A gear shaped flower": {
+        "visual_detail_level": "4",
+        "r2f_prompt": [
+            [
+                "A gear shaped object",
+                "A gear shaped flower"
+            ]
+        ],
+        "main_noun_subject": "flower"
+    },
+    "A gear shaped muffin": {
+        "visual_detail_level": "3",
+        "r2f_prompt": [
+            [
+                "A gear shaped brown object",
+                "A gear shaped muffin"
+            ]
+        ],
+        "main_noun_subject": "muffin"
+    },
+    "A heart shaped diamond": {
+        "visual_detail_level": "4",
+        "r2f_prompt": [
+            [
+                "A heart shaped gem",
+                "A heart shaped diamond"
+            ]
+        ],
+        "main_noun_subject": "diamond"
+    },
+    "A heart shaped basket ball": {
+        "visual_detail_level": "4",
+        "r2f_prompt": [
+            [
+                "A heart shaped orange object",
+                "A heart shaped basketball"
+            ]
+        ],
+        "main_noun_subject": "basket ball"
+    },
+    "A heart shaped moon": {
+        "visual_detail_level": "4",
+        "r2f_prompt": [
+            [
+                "A heart shaped celestial object",
+                "A heart shaped moon"
+            ]
+        ],
+        "main_noun_subject": "moon"
+    },
+    "A heart shaped television": {
+        "visual_detail_level": "3",
+        "r2f_prompt": [
+            [
+                "A heart shaped electronic device",
+                "A heart shaped television"
+            ]
+        ],
+        "main_noun_subject": "television"
+    },
+    "A diamond shaped smartphone": {
+        "visual_detail_level": "2",
+        "r2f_prompt": [
+            [
+                "A diamond shaped object",
+                "A diamond shaped smartphone"
+            ]
+        ],
+        "main_noun_subject": "smartphone"
+    },
+    "A diamond shaped baguette": {
+        "visual_detail_level": "1",
+        "r2f_prompt": [
+            [
+                "A diamond shaped bread",
+                "A diamond shaped baguette"
+            ]
+        ],
+        "main_noun_subject": "baguette"
+    },
+    "A diamond shaped durian": {
+        "visual_detail_level": "1",
+        "r2f_prompt": [
+            [
+                "A diamond shaped green object",
+                "A diamond shaped durian"
+            ]
+        ],
+        "main_noun_subject": "durian"
+    },
+    "A diamond shaped mousepad": {
+        "visual_detail_level": "2",
+        "r2f_prompt": [
+            [
+                "A diamond shaped pad or mat",
+                "A diamond shaped mousepad"
+            ]
+        ],
+        "main_noun_subject": "mousepad"
+    }
+}
